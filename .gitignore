@@ -18,3 +18,5 @@
 /tp2L/cmpone
 /tp2L/cmpalot
 /tp2L/alot4.out
+/tests/CMakeLists.txt
+/cmake-build-debug/
