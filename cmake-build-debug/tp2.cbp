@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="tp2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\tp2L\;CMake Files\tests\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/marcos/CLionProjects/tp2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/marcos/CLionProjects/tp2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/marcos/CLionProjects/tp2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tp2">
+				<Option output="/home/marcos/CLionProjects/tp2/cmake-build-debug/tp2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/marcos/CLionProjects/tp2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/marcos/CLionProjects/tp2/tp2L"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/Makefile&quot;  VERBOSE=1 tp2"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tp2/fast">
+				<Option output="/home/marcos/CLionProjects/tp2/cmake-build-debug/tp2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/marcos/CLionProjects/tp2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/marcos/CLionProjects/tp2/tp2L"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/Makefile&quot;  VERBOSE=1 tp2/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tp2L">
+				<Option output="/home/marcos/CLionProjects/tp2/cmake-build-debug/tp2L/libtp2L.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/marcos/CLionProjects/tp2/cmake-build-debug/tp2L"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/tp2L/Makefile&quot;  VERBOSE=1 tp2L"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/tp2L/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/tp2L/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/tp2L/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tp2L/fast">
+				<Option output="/home/marcos/CLionProjects/tp2/cmake-build-debug/tp2L/libtp2L.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/marcos/CLionProjects/tp2/cmake-build-debug/tp2L"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/tp2L/Makefile&quot;  VERBOSE=1 tp2L/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/tp2L/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/tp2L/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/tp2L/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tp2Tests">
+				<Option output="/home/marcos/CLionProjects/tp2/cmake-build-debug/tests/tp2Tests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/marcos/CLionProjects/tp2/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/marcos/CLionProjects/tp2/tests/../tp2L"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 tp2Tests"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tp2Tests/fast">
+				<Option output="/home/marcos/CLionProjects/tp2/cmake-build-debug/tests/tp2Tests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/marcos/CLionProjects/tp2/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/marcos/CLionProjects/tp2/tests/../tp2L"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 tp2Tests/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/marcos/CLionProjects/tp2/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/marcos/CLionProjects/tp2/main.cpp">
+			<Option target="tp2"/>
+		</Unit>
+		<Unit filename="/home/marcos/CLionProjects/tp2/tests/test.cpp">
+			<Option target="tp2Tests"/>
+		</Unit>
+		<Unit filename="/home/marcos/CLionProjects/tp2/tp2L/BlockOperator.cpp">
+			<Option target="tp2L"/>
+		</Unit>
+		<Unit filename="/home/marcos/CLionProjects/tp2/tp2L/BlockOperator.h">
+			<Option target="tp2L"/>
+		</Unit>
+		<Unit filename="/home/marcos/CLionProjects/tp2/tp2L/CompressedBlock.cpp">
+			<Option target="tp2L"/>
+		</Unit>
+		<Unit filename="/home/marcos/CLionProjects/tp2/tp2L/CompressedBlock.h">
+			<Option target="tp2L"/>
+		</Unit>
+		<Unit filename="/home/marcos/CLionProjects/tp2/tp2L/Compressor.cpp">
+			<Option target="tp2L"/>
+		</Unit>
+		<Unit filename="/home/marcos/CLionProjects/tp2/tp2L/Compressor.h">
+			<Option target="tp2L"/>
+		</Unit>
+		<Unit filename="/home/marcos/CLionProjects/tp2/tp2L/FReference.cpp">
+			<Option target="tp2L"/>
+		</Unit>
+		<Unit filename="/home/marcos/CLionProjects/tp2/tp2L/FReference.h">
+			<Option target="tp2L"/>
+		</Unit>
+		<Unit filename="/home/marcos/CLionProjects/tp2/tp2L/FileReader.cpp">
+			<Option target="tp2L"/>
+		</Unit>
+		<Unit filename="/home/marcos/CLionProjects/tp2/tp2L/FileReader.h">
+			<Option target="tp2L"/>
+		</Unit>
+		<Unit filename="/home/marcos/CLionProjects/tp2/tp2L/FileReaderMonitor.cpp">
+			<Option target="tp2L"/>
+		</Unit>
+		<Unit filename="/home/marcos/CLionProjects/tp2/tp2L/FileReaderMonitor.h">
+			<Option target="tp2L"/>
+		</Unit>
+		<Unit filename="/home/marcos/CLionProjects/tp2/tp2L/FileWriter.cpp">
+			<Option target="tp2L"/>
+		</Unit>
+		<Unit filename="/home/marcos/CLionProjects/tp2/tp2L/FileWriter.h">
+			<Option target="tp2L"/>
+		</Unit>
+		<Unit filename="/home/marcos/CLionProjects/tp2/tp2L/Queue.cpp">
+			<Option target="tp2L"/>
+		</Unit>
+		<Unit filename="/home/marcos/CLionProjects/tp2/tp2L/Queue.h">
+			<Option target="tp2L"/>
+		</Unit>
+		<Unit filename="/home/marcos/CLionProjects/tp2/tp2L/QueueMonitor.cpp">
+			<Option target="tp2L"/>
+		</Unit>
+		<Unit filename="/home/marcos/CLionProjects/tp2/tp2L/QueueMonitor.h">
+			<Option target="tp2L"/>
+		</Unit>
+		<Unit filename="/home/marcos/CLionProjects/tp2/tp2L/Writer.cpp">
+			<Option target="tp2L"/>
+		</Unit>
+		<Unit filename="/home/marcos/CLionProjects/tp2/tp2L/Writer.h">
+			<Option target="tp2L"/>
+		</Unit>
+		<Unit filename="/home/marcos/CLionProjects/tp2/tp2L/constants.h">
+			<Option target="tp2L"/>
+		</Unit>
+		<Unit filename="/home/marcos/CLionProjects/tp2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/marcos/CLionProjects/tp2/tp2L/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tp2L\"/>
+		</Unit>
+		<Unit filename="/home/marcos/CLionProjects/tp2/tests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

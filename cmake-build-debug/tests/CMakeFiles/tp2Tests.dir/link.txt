@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -pthread -lm CMakeFiles/tp2Tests.dir/test.cpp.o  -o tp2Tests  ../tp2L/libtp2L.a 

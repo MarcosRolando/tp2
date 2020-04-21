@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtp2L.a  CMakeFiles/tp2L.dir/tp2L/BlockOperator.cpp.o CMakeFiles/tp2L.dir/tp2L/CompressedBlock.cpp.o CMakeFiles/tp2L.dir/tp2L/Compressor.cpp.o CMakeFiles/tp2L.dir/tp2L/FReference.cpp.o CMakeFiles/tp2L.dir/tp2L/FileReader.cpp.o CMakeFiles/tp2L.dir/tp2L/FileReaderMonitor.cpp.o CMakeFiles/tp2L.dir/tp2L/FileWriter.cpp.o CMakeFiles/tp2L.dir/tp2L/Queue.cpp.o CMakeFiles/tp2L.dir/tp2L/QueueMonitor.cpp.o CMakeFiles/tp2L.dir/tp2L/Writer.cpp.o
+/usr/bin/ranlib libtp2L.a

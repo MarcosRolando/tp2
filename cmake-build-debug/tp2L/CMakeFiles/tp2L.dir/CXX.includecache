@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marcos/CLionProjects/tp2/tp2L/BlockOperator.cpp
+BlockOperator.h
+/home/marcos/CLionProjects/tp2/tp2L/BlockOperator.h
+math.h
+-
+string.h
+-
+CompressedBlock.h
+/home/marcos/CLionProjects/tp2/tp2L/CompressedBlock.h
+
+/home/marcos/CLionProjects/tp2/tp2L/BlockOperator.h
+iostream
+-
+CompressedBlock.h
+/home/marcos/CLionProjects/tp2/tp2L/CompressedBlock.h
+
+/home/marcos/CLionProjects/tp2/tp2L/CompressedBlock.h
+iostream
+-
+

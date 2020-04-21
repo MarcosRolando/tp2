@@ -108,7 +108,7 @@ void BlockOperator::_compress_numbers(CompressedBlock& block) {
  * al final).*/
 void BlockOperator::_add_padding(uint32_t* comp_numbs, int size) {
 	uint32_t bits1 = 0, bits2 = 0;
-	int n = max_bits*numbers_per_block;
+	int n = static_cast<int>(max_bits)*numbers_per_block;
 	while (n%8 != 0) {
 		bits1 = 0;
 		for (int j = size-1; j >= 0; --j) {

@@ -1,0 +1,9 @@
+/home/marcos/CLionProjects/tp2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/marcos/CLionProjects/tp2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marcos/CLionProjects/tp2/cmake-build-debug/CMakeFiles/tp2.dir
+/home/marcos/CLionProjects/tp2/cmake-build-debug/tp2L/CMakeFiles/rebuild_cache.dir
+/home/marcos/CLionProjects/tp2/cmake-build-debug/tp2L/CMakeFiles/edit_cache.dir
+/home/marcos/CLionProjects/tp2/cmake-build-debug/tp2L/CMakeFiles/tp2L.dir
+/home/marcos/CLionProjects/tp2/cmake-build-debug/tests/CMakeFiles/rebuild_cache.dir
+/home/marcos/CLionProjects/tp2/cmake-build-debug/tests/CMakeFiles/edit_cache.dir
+/home/marcos/CLionProjects/tp2/cmake-build-debug/tests/CMakeFiles/tp2Tests.dir
