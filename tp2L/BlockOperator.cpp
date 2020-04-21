@@ -9,7 +9,7 @@ BlockOperator::BlockOperator(int numbers_per_block) {
 	max_bits = 0;
 	minimum = 0;
 }
-
+//cambio la linea problema de merge
 CompressedBlock BlockOperator::proccess_numbers() {
 	int bytes_in_block;
 	_find_minimum();
