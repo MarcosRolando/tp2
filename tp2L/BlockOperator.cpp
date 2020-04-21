@@ -9,7 +9,7 @@ BlockOperator::BlockOperator(int numbers_per_block) {
 	max_bits = 0;
 	minimum = 0;
 }
-
+//probando nueva branch
 CompressedBlock BlockOperator::proccess_numbers() {
 	int bytes_in_block;
 	_find_minimum();
